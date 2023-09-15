@@ -1,4 +1,5 @@
  <script>
-        // Tu código JavaScript va aquí
-        alert("¡Hola, mundo!");
+        function mostrarMensaje() {
+            console.log("Hola, esto es un mensaje de JavaScript en la consola.");
+        }
     </script>
